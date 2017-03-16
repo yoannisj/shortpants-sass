@@ -1,0 +1,28 @@
+{
+  "name": "shortpants-sass",
+  "description": "Manipulate css shorthands with sass",
+  "main": "index.js",
+  "authors": [
+    "Yoannis Jamar <yoannis.j@gmail.com>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "sass",
+    "CSS",
+    "shorthands",
+    "utilities",
+    "utils",
+    "helpers"
+  ],
+  "homepage": "https://github.com/yoannisj/shortpants-sass",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "sass-aleksi": "^0.4.1"
+  }
+}

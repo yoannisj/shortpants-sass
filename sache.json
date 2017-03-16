@@ -1,0 +1,12 @@
+{
+  "name": "shortpants-sass",
+  "description": "Manipulate css shorthands with sass",
+  "tags": [
+    "sass",
+    "CSS",
+    "shorthands",
+    "utilities",
+    "utils",
+    "helpers"
+  ]
+}
